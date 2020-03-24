@@ -1,5 +1,4 @@
-# Cloud-server
+# springcloud-config
+springcloud-config的配置中心
 
-hahhahahahaii
-
-spring-config file
+springcloud-config的配置中心
